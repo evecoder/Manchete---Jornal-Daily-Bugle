@@ -1,0 +1,84 @@
+.logo {
+position: absolute;
+    top: -100px;
+    left: 326px;
+    
+}
+
+
+
+
+.dsclp {
+    position: absolute;
+    top: 200px;
+    left: 300px;
+    color: white;
+    font-size: 50px;
+    font-family: serif;
+    text-align: center;
+    box-sizing: border-box;
+    background-color: black;
+    height: 465px;
+    
+    
+}
+
+.acusa{
+    font-size: 40px;
+    top: 10px;
+    
+}
+
+
+.aranhafoto
+{
+    position: absolute;
+    top: 200px;
+    left: 750px;
+    border: 5px solid gray;
+    box-sizing: border-box;
+    background-color: black;
+    
+}
+
+.imagem {
+    position: absolute;
+    top: 680px;
+    left: 650px;
+    
+}
+
+.fake {
+    position: absolute;
+    top:680px;
+    left: 305px;
+    font-size: 28px;
+    text-align: center;
+    height: 300px;
+        border: 2px solid black;
+
+}
+
+.fired {
+    
+    position: absolute;
+    top: 900px;
+    left: 665px;
+    font-size: 25px;
+    line-height: 40px;
+    
+    
+}
+
+
+.noticia {
+    position:absolute;
+    color: black;
+    top: 660px;
+    right: 170px;
+    width: 225px;
+    height: 100px;
+    text-align: justify;
+    font-size: 12px; 
+}
+
